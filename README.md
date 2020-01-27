@@ -2,10 +2,12 @@
 
 ### Parte de investigación
 
-Instalación de Zeppelin 
+1. Instalación de Zeppelin 
 
-Configuración en Spark para conectar Apache Spark y Apache Zeppelin
+https://colab.research.google.com/drive/1Xgu4txFgjnN8jtsrkFoNNo9zmTQy0hSJ
 
-Calcular el nº de registros del fichero amigos.csv
+2. Configuración en Spark para conectar Apache Spark y Apache Zeppelin
+
+3. Calcular el nº de registros del fichero amigos.csv
 
 
