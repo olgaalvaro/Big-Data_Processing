@@ -12,6 +12,7 @@
 
 3. Calcular el nº de registros del fichero amigos.csv
 
-4. Calcular el nº de palabras del fichero amigos.csv
+   IntelliJ IDEA https://colab.research.google.com/drive/1N9I93UshWu4VOhH4V4RM0kU60dJeumgT
+   Zeppelin      https://colab.research.google.com/drive/1rBYE2ygimIfoqay8wxRwHthiXLMozobL
 
 
