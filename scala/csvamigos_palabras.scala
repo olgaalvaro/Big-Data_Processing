@@ -8,7 +8,7 @@ object csvamigos_palabras {
     val conf = new SparkConf().setAppName("csvpalabras").setMaster("local") //SparkConf()
     val sc = new SparkContext(conf)
 
-    // Lectura del fichero en la ruta del proyecto /home/keepcoding/IdeaProjects/TestScalaNuevo
+    // RDD Lectura del fichero amigos.csv guardado en la ruta del proyecto /home/keepcoding/IdeaProjects/TestScalaNuevo
     val input = sc.textFile("amigos.csv")
 
     // Transformación para obtener en cada línea del RDD las palabras que están separadas por ,
