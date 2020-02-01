@@ -10,7 +10,7 @@ object csvamigos_registros {
     // DATAFRAME con la carga del fichero amigos.csv (sin cabecera) en modo programática read.format
     val df = spark.read.format("csv").option("delimiter", ",").load("amigos.csv")
 
-    // Convertir el fichero csv en una tabla
+    // Convertir el fichero csv en una vista tempora
     df.createOrReplaceTempView("amigos")
     val dfsql = spark.sql("select count(*) from amigos")
     println("NÚMERO TOTAL DE REGISTROS ")
