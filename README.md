@@ -12,4 +12,6 @@
 
 3. Calcular el nº de registros del fichero amigos.csv
 
+4. Calcular el nº de palabras del fichero amigos.csv
+
 
