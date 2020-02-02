@@ -7,6 +7,7 @@
 Accedemos como root a la terminal y en la ruta /home/kafka/kafka_2.11-2.4.0/bin ejecutamos los siguientes comandos:
 
 - Listar los topics, como no hay ninguno procedemos a crearlo
+
   ./kafka-topics.sh --list --zookeeper localhost:2181
 - Crear el topic topicpractica
   /kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic topicpractica
