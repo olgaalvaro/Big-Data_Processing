@@ -9,6 +9,7 @@
 2. Desarrollar el PRODUCTOR para el envio del fichero personal.json para que el CONSUMIDOR lo trate
 
    - Sintaxis de Kafka-console-producer.sh y kafka-console-consumer.sh
+     https://colab.research.google.com/drive/1j0Zsr9HLCxUBk5TXJxj__-w1LO6nXvvm
   
    - Código en Scala del PRODUCTOR
   
