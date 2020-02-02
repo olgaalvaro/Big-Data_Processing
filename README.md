@@ -8,11 +8,11 @@
 
 2. Desarrollar el PRODUCTOR para el envio del fichero personal.json para que el CONSUMIDOE lo trate
 
-  - Sintaxis de Kafka-console-producer.sh y kafka-console-consumer.sh
+  * Sintaxis de Kafka-console-producer.sh y kafka-console-consumer.sh
   
-  - Código en Scala del PRODUCTOR
+  * Código en Scala del PRODUCTOR
   
-  - Código en Scala del CONSUMIDOR
+  * Código en Scala del CONSUMIDOR
   
 
 ### Parte de investigación
