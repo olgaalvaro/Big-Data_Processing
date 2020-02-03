@@ -14,6 +14,7 @@
    - Código en Scala del PRODUCTOR
   
    - Código en Scala del CONSUMIDOR
+     https://colab.research.google.com/drive/1jL4j7od0NMevA2_9eUw8hup0CPQNxDmP
   
 
 ### Parte de investigación
