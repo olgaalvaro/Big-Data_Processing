@@ -9,14 +9,14 @@
         
    - Sintaxis de Kafka-console-producer.sh y kafka-console-consumer.sh
      https://colab.research.google.com/drive/1j0Zsr9HLCxUBk5TXJxj__-w1LO6nXvvm
-  
-   - Código en Scala del CONSUMIDOR (Spark Streaming)
-     https://colab.research.google.com/drive/1AGUePtpsMqxnYUoNYobJL2VFQN2vh5Nk
-  
+   
    - Código en Scala del CONSUMIDOR (Kafka)
      https://colab.research.google.com/drive/1jL4j7od0NMevA2_9eUw8hup0CPQNxDmP
   
-
+   - Código en Scala del CONSUMIDOR (Spark Streaming)
+     https://colab.research.google.com/drive/1AGUePtpsMqxnYUoNYobJL2VFQN2vh5Nk
+     
+     
 ### Parte de investigación
 
 1. Instalación de Zeppelin 
