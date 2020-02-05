@@ -2,12 +2,11 @@
 
 ### Kafka Streaming
 
-1. Crear el topic topicpractica
+1. Desarrollar el PRODUCTOR para el envio del contenido del fichero personal.json para que el CONSUMIDOR lo trate
 
-   https://colab.research.google.com/drive/167oJWy6LBj6CjgFMwzyASycdPJDHnwNS
-
-2. Desarrollar el PRODUCTOR para el envio del fichero personal.json para que el CONSUMIDOR lo trate
-
+   - Crear el topic topicpractica 
+     https://colab.research.google.com/drive/167oJWy6LBj6CjgFMwzyASycdPJDHnwNS
+   
    - Sintaxis de Kafka-console-producer.sh y kafka-console-consumer.sh
      https://colab.research.google.com/drive/1j0Zsr9HLCxUBk5TXJxj__-w1LO6nXvvm
   
