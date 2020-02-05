@@ -6,7 +6,7 @@
 
    - Crear el topic topicpractica
      https://colab.research.google.com/drive/167oJWy6LBj6CjgFMwzyASycdPJDHnwNS
-   
+        
    - Sintaxis de Kafka-console-producer.sh y kafka-console-consumer.sh
      https://colab.research.google.com/drive/1j0Zsr9HLCxUBk5TXJxj__-w1LO6nXvvm
   
