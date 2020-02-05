@@ -4,7 +4,7 @@
 
 1. Desarrollar el PRODUCTOR para el envio del contenido del fichero personal.json para que el CONSUMIDOR lo trate
 
-   - Crear el topic topicpractica 
+   - Crear el topic topicpractica
      https://colab.research.google.com/drive/167oJWy6LBj6CjgFMwzyASycdPJDHnwNS
    
    - Sintaxis de Kafka-console-producer.sh y kafka-console-consumer.sh
