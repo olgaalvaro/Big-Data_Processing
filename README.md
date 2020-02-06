@@ -12,10 +12,7 @@
    
    - Código en Scala del CONSUMIDOR (Kafka)
      https://colab.research.google.com/drive/1jL4j7od0NMevA2_9eUw8hup0CPQNxDmP
-  
-   - Código en Scala del CONSUMIDOR (Spark Streaming)
-     https://colab.research.google.com/drive/1AGUePtpsMqxnYUoNYobJL2VFQN2vh5Nk
-     
+      
      
 ### Parte de investigación
 
